@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "849223365795",
+    "project_id": "elalmashop-f8c48",
+    "storage_bucket": "elalmashop-f8c48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849223365795:android:83b78aca329f7b77cb3b16",
+        "android_client_info": {
+          "package_name": "com.example.elalmashop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849223365795-5gev6gqcvb3ditra2bgdhhuvcmacejg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqkdo2NJqfi-W9m15tlpl2E-1AwnJ0lbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849223365795-5gev6gqcvb3ditra2bgdhhuvcmacejg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
